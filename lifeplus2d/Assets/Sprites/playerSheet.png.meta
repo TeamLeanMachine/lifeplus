@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 84944cae3dd2fee4898693565077fab3
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: playerSheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 885
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 885
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 885
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 884
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 884
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 884
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 884
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 884
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_8
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 883
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 883
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 883
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 883
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 742
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 743
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 743
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 743
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 743
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 743
+        width: 81
+        height: 138
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 744
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 744
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 744
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_21
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 744
+        width: 81
+        height: 137
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_22
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 752
+        width: 119
+        height: 129
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 610
+        width: 118
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 608
+        width: 118
+        height: 132
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 608
+        width: 113
+        height: 132
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_26
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 606
+        width: 106
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_27
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 607
+        width: 103
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_28
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 608
+        width: 102
+        height: 132
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 606
+        width: 100
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_30
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 606
+        width: 96
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_31
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 605
+        width: 95
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 470
+        width: 95
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 470
+        width: 99
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 469
+        width: 102
+        height: 134
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_35
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 473
+        width: 108
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_36
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 477
+        width: 116
+        height: 126
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_37
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 476
+        width: 118
+        height: 127
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_38
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 475
+        width: 110
+        height: 128
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 474
+        width: 102
+        height: 129
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_40
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 473
+        width: 103
+        height: 130
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 336
+        width: 104
+        height: 131
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 335
+        width: 98
+        height: 132
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 332
+        width: 94
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 332
+        width: 98
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_45
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 332
+        width: 104
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_46
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 332
+        width: 106
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_47
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 332
+        width: 109
+        height: 135
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: playerSheet_48
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 334
+        width: 112
+        height: 133
+      alignment: 7
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
