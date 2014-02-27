@@ -1,0 +1,1705 @@
+fileFormatVersion: 2
+guid: 68d0edfd680f4c04e91285f78954a669
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: braidSheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1209
+        width: 82
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1209
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1209
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1209
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1209
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1209
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1209
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_7
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1209
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1209
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1209
+        width: 84
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_10
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1209
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1209
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1209
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1209
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1209
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1209
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1209
+        width: 82
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1209
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1209
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1209
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_20
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1209
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_21
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1209
+        width: 83
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 1209
+        width: 76
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1209
+        width: 88
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1032
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1032
+        width: 120
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1030
+        width: 118
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_27
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1030
+        width: 113
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1028
+        width: 105
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_29
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1028
+        width: 103
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_30
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1028
+        width: 103
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_31
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1028
+        width: 101
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1028
+        width: 99
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1047
+        width: 101
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1055
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1055
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1057
+        width: 96
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1055
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1052
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_39
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1060
+        width: 123
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_40
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1060
+        width: 126
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_41
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1060
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 878
+        width: 96
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 880
+        width: 96
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 878
+        width: 99
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 878
+        width: 103
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_46
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 883
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 885
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_48
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 885
+        width: 121
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_49
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 883
+        width: 111
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_50
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 880
+        width: 100
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 885
+        width: 101
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_52
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 883
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_53
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 878
+        width: 96
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_54
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 875
+        width: 94
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_55
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 875
+        width: 93
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 878
+        width: 96
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_57
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 878
+        width: 98
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_58
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 880
+        width: 101
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_59
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 880
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 737
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_61
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 737
+        width: 106
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_62
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 737
+        width: 101
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 735
+        width: 96
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_64
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 735
+        width: 98
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_65
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 735
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_66
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 735
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_67
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 735
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_68
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 737
+        width: 113
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_69
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 706
+        width: 108
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_70
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 706
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_71
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 706
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_72
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 708
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_73
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 708
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_74
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 796
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_75
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 796
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_76
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 767
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_77
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 767
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_78
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 767
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_79
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 735
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_80
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 737
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_81
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 737
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_82
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 737
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_83
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 733
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_84
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 737
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_85
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 737
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_86
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 737
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_87
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 737
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_88
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 737
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_89
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 737
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_90
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 737
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_91
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 737
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 551
+        width: 100
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 543
+        width: 100
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_94
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 553
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_95
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 553
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_96
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 543
+        width: 103
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_97
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 543
+        width: 96
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_98
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 553
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_99
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 553
+        width: 108
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_100
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 546
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_101
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 543
+        width: 128
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_102
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 546
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_103
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 548
+        width: 118
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_104
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 548
+        width: 115
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_105
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 548
+        width: 116
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_106
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 546
+        width: 113
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_107
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 546
+        width: 111
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_108
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 415
+        width: 86
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_109
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 371
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_110
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 369
+        width: 104
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_111
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 371
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_112
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 371
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_113
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 371
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_114
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 369
+        width: 106
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_115
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 369
+        width: 105
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_116
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 369
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_117
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 371
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_118
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 371
+        width: 108
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_119
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 371
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_120
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 371
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_121
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 369
+        width: 113
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_122
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 369
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_123
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 369
+        width: 113
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_124
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 470
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_125
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 467
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_126
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 467
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_127
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 435
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_128
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 445
+        width: 123
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_129
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 435
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_130
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 435
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_131
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 433
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_132
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 433
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_133
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 435
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_134
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 435
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_135
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 435
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_136
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 415
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_137
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 423
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_138
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 420
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_139
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 415
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_140
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 420
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_141
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 420
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_142
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 423
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_143
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 420
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_144
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 211
+        width: 108
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_145
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 214
+        width: 108
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_146
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 214
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_147
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 211
+        width: 120
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_148
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 211
+        width: 113
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_149
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 211
+        width: 116
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_150
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 211
+        width: 111
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_151
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 211
+        width: 103
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_152
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 209
+        width: 96
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_153
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 206
+        width: 94
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_154
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 206
+        width: 111
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_155
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 206
+        width: 113
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_156
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 206
+        width: 116
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_157
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 206
+        width: 115
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_158
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 209
+        width: 110
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_159
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 206
+        width: 108
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_160
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 209
+        width: 108
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_161
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 209
+        width: 108
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_162
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 32
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_163
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 83
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_164
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 32
+        width: 77
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_165
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 32
+        width: 77
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_166
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 32
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_167
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 34
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_168
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 34
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_169
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 34
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_170
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 34
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_171
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 34
+        width: 88
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_172
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 34
+        width: 86
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_173
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 34
+        width: 83
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_174
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 34
+        width: 82
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_175
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 34
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_176
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_177
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_178
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_179
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_180
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 44
+        width: 83
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_181
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_182
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: braidSheet_183
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 44
+        width: 86
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
