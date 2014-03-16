@@ -8,6 +8,13 @@
 Yoga/Yoga/Temp/*
 Yoga/Yoga/Library/*
 Yoga/Yoga/Build/*
+Running\ Game/Temp/*
+Running\ Game/Library/*
+Running\ Game/Build/*
+lifeplus2d/Temp/*
+lifeplus2d/Library/*
+lifeplus2d/Build/*
+
 #Un-ignore these specific files
 !Yoga/Yoga/Library/*.asset
 !Yoga/Yoga/Library/AssetImportState
@@ -20,6 +27,30 @@ Yoga/Yoga/Build/*
 !Yoga/Yoga/Library/unity default resources
 !Yoga/Yoga/Library/unity editor resources
 !Yoga/Yoga/Library/metadata/
+
+!Running\ Game/Library/*.asset
+!Running\ Game/Library/AssetImportState
+!Running\ Game/Library/AssetVersioning.db
+!Running\ Game/Library/BuildPlayer.prefs
+!Running\ Game/Library/ScriptMapper
+!Running\ Game/Library/assetservercachev3
+!Running\ Game/Library/expandedItems
+!Running\ Game/Library/guidmapper
+!Running\ Game/Library/unity default resources
+!Running\ Game/Library/unity editor resources
+!Running\ Game/Library/metadata/
+
+!lifeplus2d/Library/*.asset
+!lifeplus2d/Library/AssetImportState
+!lifeplus2d/Library/AssetVersioning.db
+!lifeplus2d/Library/BuildPlayer.prefs
+!lifeplus2d/Library/ScriptMapper
+!lifeplus2d/Library/assetservercachev3
+!lifeplus2d/Library/expandedItems
+!lifeplus2d/Library/guidmapper
+!lifeplus2d/Library/unity default resources
+!lifeplus2d/Library/unity editor resources
+!lifeplus2d/Library/metadata/
  
 
 #ignoring pidb, they are just code completion caching data according to:
