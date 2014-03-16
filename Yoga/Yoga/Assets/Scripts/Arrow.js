@@ -77,3 +77,9 @@ function OnTriggerExit2D(other:Collider2D) {
 	
 	//print ("Trigger exit");
 }
+
+function setPosition(xx:float, yy:float, zz:float) {
+	transform.position = Vector3(xx, yy, zz);
+}
+
+
