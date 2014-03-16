@@ -1,4 +1,5 @@
-﻿#pragma strict
+﻿
+#pragma strict
 
 var score:int;
 var level:String;
@@ -31,6 +32,7 @@ var scre:GUIText;
 var timr:GUIText;
 
 var totalTime:int;
+var percentComplete:double;
 
 function Start () {
 	score = 0;
@@ -189,5 +191,23 @@ function gameTimer() {
 }
 
 function saveLevel() {
+	var rating:int;
+	var totalPoss:double;
+	var actual:double;
+
+	totalPoss = level.Length * (1.0d);
+	actual = score * (1.0d);
+	
+	percentComplete = actual/totalPoss;
+	if ( percentComplete > .9 ) {
+		rating = 3;
+	} else if ( percentComplete > .75 ) {
+		rating = 2;
+	} else if ( percentComplete > .5 ) {
+		rating = 1;
+	} else {
+		rating = 0;
+	}
+	PlayerPrefs.SetInt("newScoreRating", rating);
 	PlayerPrefs.SetInt("newScore", score);
 }
