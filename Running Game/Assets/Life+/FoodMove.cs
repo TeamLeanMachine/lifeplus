@@ -4,7 +4,7 @@ using System.Collections;
 public class FoodMove : MonoBehaviour
 {
 	private SpriteRenderer ren;
-	public float moveSpeed = 2f;
+	public float moveSpeed = 8f;
 	
 	void Awake()
 	{
@@ -16,6 +16,10 @@ public class FoodMove : MonoBehaviour
 	{	
 		// Set the enemy's velocity to moveSpeed in the x direction.
 		rigidbody2D.velocity = new Vector2(-1*(transform.localScale.x * moveSpeed), rigidbody2D.velocity.y);	
+		if (!ren.isVisible) 
+		{
+			Destroy(transform.root.gameObject);
+		}
 	}
 }
 

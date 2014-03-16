@@ -4,18 +4,16 @@ using System.Collections;
 public class FoodPickup : MonoBehaviour
 {
 	private bool landed = false;	
+	public int calorie = 100;
+	public bool healthy = true;
+	public int engery = 10;
+	public int value = 5; 
 
 	void OnTriggerEnter2D (Collider2D other)
 	{
 		// If the player enters the trigger zone...
 		if(other.tag == "Player")
 		{
-			// ... play the pickup sound effect.
-			//AudioSource.PlayClipAtPoint(pickupClip, transform.position);
-			
-			// Increase the number of bombs the player has.
-			//other.GetComponent<LayBombs>().bombCount++;
-			
 			// Destroy the crate.
 			Destroy(transform.root.gameObject);
 		}
@@ -28,6 +26,11 @@ public class FoodPickup : MonoBehaviour
 			gameObject.AddComponent<Rigidbody2D>();
 			landed = true;		
 		}
+	}
+
+	void updateGameStats()
+	{
+
 	}
 }
 

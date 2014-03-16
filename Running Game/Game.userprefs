@@ -1,17 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Life+\PlayerPref.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Yufei_Fu_Life+\Assets\Scripts\PlayerControl.cs">
     <Files>
-      <File FileName="Assets\Life+\PlayerPref.cs" Line="9" Column="22" />
-      <File FileName="Assets\Life+\FoodMove.cs" Line="19" Column="3" />
-      <File FileName="Assets\Life+\FoodPickup.cs" Line="1" Column="1" />
-      <File FileName="Assets\Life+\EnemyMove.cs" Line="1" Column="1" />
+      <File FileName="..\Yufei_Fu_Life+\Assets\Scripts\PlayerControl.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True" selected="True" />
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

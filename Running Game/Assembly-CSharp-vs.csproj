@@ -51,6 +51,7 @@
      <Compile Include="Assets\Life+\FoodPickup.cs" />
      <Compile Include="Assets\Life+\ObstacleMove.cs" />
      <Compile Include="Assets\Life+\Player.cs" />
+     <Compile Include="Assets\Life+\PlayerData.cs" />
      <Compile Include="Assets\Life+\PlayerPref.cs" />
      <Compile Include="Assets\Life+\Spawner.cs" />
      <Compile Include="Assets\Scripts\BackgroundParallax.cs" />

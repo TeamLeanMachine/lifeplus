@@ -17,7 +17,7 @@ public class Player : MonoBehaviour
 	private Transform groundCheck;			// A position marking where to check if the player is grounded.
 	private bool grounded = false;			// Whether or not the player is grounded.
 	private Animator anim;					// Reference to the player's animator component.
-	
+
 	
 	void Awake()
 	{
@@ -41,33 +41,8 @@ public class Player : MonoBehaviour
 	
 	void FixedUpdate ()
 	{
-		/*
-		// Cache the horizontal input.
-		float h = Input.GetAxis("Horizontal");
-		
-		// The Speed animator parameter is set to the absolute value of the horizontal input.
-		anim.SetFloat("Speed", Mathf.Abs(h));
-		
-		// If the player is changing direction (h has a different sign to velocity.x) or hasn't reached maxSpeed yet...
-		if(h * rigidbody2D.velocity.x < maxSpeed)
-			// ... add a force to the player.
-			rigidbody2D.AddForce(Vector2.right * h * moveForce);
-		
-		// If the player's horizontal velocity is greater than the maxSpeed...
-		if(Mathf.Abs(rigidbody2D.velocity.x) > maxSpeed)
-			// ... set the player's velocity to the maxSpeed in the x axis.
-			rigidbody2D.velocity = new Vector2(Mathf.Sign(rigidbody2D.velocity.x) * maxSpeed, rigidbody2D.velocity.y);
-		
-		// If the input is moving the player right and the player is facing left...
-		if(h > 0 && !facingRight)
-			// ... flip the player.
-			Flip();
-		// Otherwise if the input is moving the player left and the player is facing right...
-		else if(h < 0 && facingRight)
-			// ... flip the player.
-			Flip();
-		*/
-		
+		//Tilt control
+
 		// If the player should jump...
 		if(jump)
 		{
