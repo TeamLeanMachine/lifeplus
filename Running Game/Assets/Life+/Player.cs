@@ -34,7 +34,7 @@ public class Player : MonoBehaviour
 		
 		// If the jump button is pressed and the player is grounded then the player should jump.
 		// Input.GetTouch(0).phase == TouchPhase.Began
-		if((Input.GetButtonDown("Jump") || Input.GetTouch(0).phase == TouchPhase.Began) && grounded )
+		if((Input.GetButtonDown("Jump")) && grounded )
 			jump = true;
 	}
 	

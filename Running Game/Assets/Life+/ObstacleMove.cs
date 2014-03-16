@@ -16,7 +16,7 @@ public class ObstacleMove : MonoBehaviour {
 	
 	private SpriteRenderer ren;			// Reference to the sprite renderer.
 	private Transform frontCheck;		// Reference to the position of the gameobject used for checking if something is in front.
-	private Score score;				// Reference to the Score script.
+	//private Score score;				// Reference to the Score script.
 	
 	
 	void Awake()

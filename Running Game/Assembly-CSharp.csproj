@@ -53,7 +53,9 @@
      <Compile Include="Assets\Life+\Player.cs" />
      <Compile Include="Assets\Life+\PlayerData.cs" />
      <Compile Include="Assets\Life+\PlayerPref.cs" />
+     <Compile Include="Assets\Life+\Score.cs" />
      <Compile Include="Assets\Life+\Spawner.cs" />
+     <Compile Include="Assets\Life+\Timer.cs" />
      <Compile Include="Assets\Scripts\BackgroundParallax.cs" />
      <Compile Include="Assets\Scripts\BackgroundPropSpawner.cs" />
      <Compile Include="Assets\Scripts\Bomb.cs" />
@@ -71,7 +73,6 @@
      <Compile Include="Assets\Scripts\PlayerHealth.cs" />
      <Compile Include="Assets\Scripts\Remover.cs" />
      <Compile Include="Assets\Scripts\Rocket.cs" />
-     <Compile Include="Assets\Scripts\Score.cs" />
      <Compile Include="Assets\Scripts\ScoreShadow.cs" />
      <Compile Include="Assets\Scripts\SetParticleSortingLayer.cs" />
   </ItemGroup>

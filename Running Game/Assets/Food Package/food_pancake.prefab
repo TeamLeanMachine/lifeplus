@@ -71,7 +71,7 @@ MonoBehaviour:
   calorie: 500
   healthy: 0
   engery: 10
-  value: 5
+  value: -250
 --- !u!114 &11400002
 MonoBehaviour:
   m_ObjectHideFlags: 1
