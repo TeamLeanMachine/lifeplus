@@ -39,7 +39,8 @@ function Start () {
 	print("STARTED");
 	//gameObject.renderer.enabled = false;
 	
-	level = "123422321";
+	generateLevel();
+	
 	first = true;
 	timer1 = 0;
 	startTime = 0;
@@ -58,7 +59,7 @@ function Start () {
 	
 	done = false;
 	
-	totalTime = level.Length * 1.6;
+	totalTime = level.Length * 1.3;
 	
 	scre = GameObject.Find("Score").GetComponent("GUIText");
 	scre.text = "Score: 0";
@@ -118,7 +119,7 @@ function OnGUI()
     if(GUI.Button(Rect( 1, Screen.height-25, 75, 25 ),"Restart"))
     {
        //Loads a level
-      Application.LoadLevel("Yoga");
+      Application.LoadLevel("YogaLevelMenu");
     }
 }
 
@@ -190,6 +191,23 @@ function gameTimer() {
 	}
 }
 
+function generateLevel() {
+	var selectedLevel = PlayerPrefs.GetInt("selectedLevel");
+	if ( selectedLevel == 1 ) {
+		level = "1111122222333334444";
+	} else if (selectedLevel == 2 ) {
+		level = "1234123412341234123";
+	} else if (selectedLevel == 3 ) {
+		level = "3421322243231342313";
+	} else if (selectedLevel == 4 ) {
+		level = "1123432342123423344";
+	} else if (selectedLevel == 5 ) {
+		level = "1234232232333444111";
+	}
+
+}
+
+// saves level informationa and calculates end game state
 function saveLevel() {
 	var rating:int;
 	var totalPoss:double;

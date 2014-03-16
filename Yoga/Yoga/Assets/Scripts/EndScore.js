@@ -26,7 +26,7 @@ function OnGUI() {
     if(GUI.Button(Rect( (Screen.width/2 - 70), (Screen.height/2 + 40) , 100, 25 ),"Play Again?"))
     {
        //Loads a level
-      Application.LoadLevel("Yoga");
+      Application.LoadLevel("YogaLevelMenu");
     }
 }
 

@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\ArrowGenerator.js" />
      <Compile Include="Assets\Scripts\Catcher.js" />
      <Compile Include="Assets\Scripts\EndScore.js" />
+     <Compile Include="Assets\Scripts\LevelMenu.js" />
      <Compile Include="Assets\Scripts\Stage.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
