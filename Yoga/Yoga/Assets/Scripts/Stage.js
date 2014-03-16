@@ -116,11 +116,11 @@ function OnGUI()
 {
  
     //makes a GUI button at coordinates 10, 100, and a size of 200x40
-    if(GUI.Button(Rect( 1, Screen.height-25, 75, 25 ),"Restart"))
-    {
+    //if(GUI.Button(Rect( 1, Screen.height-25, 75, 25 ),"Restart"))
+   // {
        //Loads a level
-      Application.LoadLevel("YogaLevelMenu");
-    }
+    //  Application.LoadLevel("YogaLevelMenu");
+   // }
 }
 
 function incrementScore() {

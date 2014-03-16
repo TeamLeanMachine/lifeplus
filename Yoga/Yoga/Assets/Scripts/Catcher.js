@@ -82,7 +82,7 @@ function Update () {
 			}
 			
 			// where we activate the game object
-			if ( gameObject.name == "A1_Left" && dir == 4 ) {
+			if ( gameObject.name == "A1_Left" && dir == 1 ) {
 				print("minDist: " + minDist);
 				print("right" + id + " " + gameObject.name);
 				gameObject.renderer.enabled = true;
@@ -97,7 +97,7 @@ function Update () {
 				print("down" + id + " " + gameObject.name);
 				gameObject.renderer.enabled = true;
 				pressed = true;
-			} else if ( gameObject.name == "A4_Right" && dir == 1 ) {
+			} else if ( gameObject.name == "A4_Right" && dir == 4 ) {
 				print("minDist: " + minDist);
 				print("left" + id + " " + gameObject.name);
 				gameObject.renderer.enabled = true;
